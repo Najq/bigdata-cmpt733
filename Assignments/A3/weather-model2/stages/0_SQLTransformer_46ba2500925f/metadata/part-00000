@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.SQLTransformer","timestamp":1579924955898,"sparkVersion":"2.4.4","uid":"SQLTransformer_46ba2500925f","paramMap":{"statement":"SELECT latitude,longitude,elevation,tmax,DAYOFYEAR(date) AS date FROM __THIS__ "},"defaultParamMap":{}}
